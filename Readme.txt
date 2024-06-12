@@ -15,13 +15,12 @@ Make sure you have the following R packages installed:
 - caret
 - xgboost
 
-You can install these packages using `install.packages("package_name")` in R.
 
 ## Usage
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your_username/your_repository.git
+   git clone https://github.com/mode1990/Pseudotime-downstream-by-ML
    cd your_repository
    ```
 
